@@ -1,3 +1,2 @@
 # hello-world
-GitHub Tutorial
-This is a tutorial created by jdb.
+> This is a tutorial created by jdb.
