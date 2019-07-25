@@ -1,3 +1,5 @@
+console.log("This is the program.");
+
 var x, y;
 var message = "The value f x + y is ";
 
