@@ -1,8 +1,9 @@
 var x, y;
+var message = "The value f x + y is ";
 
 x = 3;
 y = 4;
 
 z = x + y;
 
-console.log("The value of x + y = " + z);
+console.log(message + z);
