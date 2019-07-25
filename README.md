@@ -1,3 +1,2 @@
-# hello-world
-## I say hello, world!
-  > This is a tutorial created by jdb.
+# JavaScript Hello World
+This is a tutorial created by jdb to demonstrate a basic Node.js application.
